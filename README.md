@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/logo.svg" alt="LumaCam logo" width="84" height="84" />
   <h1>LumaCam</h1>
-  <p>A minimal, OLED-first Android camera app that was 100% coded by Gemini in Android Studio while I watched and cheered it on.</p>
+  <p>A minimal Android camera app that was 100% coded by Gemini in Android Studio while I watched and cheered it on.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Human%20Code-0%25-ff4444?style=flat-square" alt="Human Code 0%" />
@@ -22,7 +22,7 @@
 
 ## What Is This?
 
-**LumaCam** is a no-nonsense, pure-black OLED camera app for Android. No Material 3 bloat, no social feed, no 47-tab settings menu—just an edge-to-edge viewfinder, tactile gestures, unprocessed sensor output, and real-time GPU film looks (~1.6 MB release APK).
+**LumaCam** is a no-nonsense camera app for Android. No Material 3 bloat, no social feed, no 47-tab settings menu—just an edge-to-edge viewfinder, tactile gestures, unprocessed sensor output, and real-time GPU film looks (~1.6 MB release APK).
 
 ## What It Actually Does
 
